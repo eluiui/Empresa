@@ -1,0 +1,7 @@
+sustituir:
+combinar:el tenedor cuchara
+adaptar:adaptar un coche para discapacitados
+modificar: modificar el color del coche
+para otros casos:
+eliminar:
+reordenar:
